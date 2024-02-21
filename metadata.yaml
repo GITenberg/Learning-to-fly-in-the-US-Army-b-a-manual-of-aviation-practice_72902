@@ -1,11 +1,16 @@
 _repo: Learning-to-fly-in-the-US-Army-b-a-manual-of-aviation-practice_72902
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72902-h/images/back_cover.jpg
 creator:
   author:
     agent_name: Fales, Elisha Noel
     gutenberg_agent_id: '56854'
     url: http://www.gutenberg.org/2009/agents/56854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72902#Learning-to-fly-in-the-US-Army-b-a-manual-of-aviation-practice
 gutenberg_issued: '2024-02-08'
 gutenberg_type: Text
 identifiers:
